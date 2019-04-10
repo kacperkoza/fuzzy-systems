@@ -1,0 +1,232 @@
+08.04.19 18:00	Wisła Płock	Śląsk Wrocław	2:0
+07.04.19 18:00	Górnik Zabrze	Legia Warszawa	1:2
+07.04.19 15:30	Pogoń Szczecin	Arka Gdynia	3:3
+06.04.19 20:30	Lechia Gdańsk	Lech Poznań	1:0
+06.04.19 18:00	Wisła Kraków	Piast Gliwice	2:2
+06.04.19 15:30	Jagiellonia Białystok	Zagłębie Sosnowiec	2:1
+05.04.19 20:30	Miedź Legnica	Cracovia	2:1
+05.04.19 18:00	Korona Kielce	Zagłębie Lubin	0:2
+03.04.19 20:30	Legia Warszawa	Jagiellonia Białystok	3:0
+03.04.19 20:30	Zagłębie Sosnowiec	Wisła Kraków	4:3
+03.04.19 18:00	Lech Poznań	Pogoń Szczecin	3:2
+03.04.19 18:00	Piast Gliwice	Wisła Płock	1:0
+02.04.19 20:30	Arka Gdynia	Lechia Gdańsk	0:0
+02.04.19 20:30	Zagłębie Lubin	Górnik Zabrze	1:1
+02.04.19 18:00	Cracovia	Korona Kielce	2:1
+02.04.19 18:00	Śląsk Wrocław	Miedź Legnica	0:0
+31.03.19 18:00	Wisła Kraków	Legia Warszawa	4:0
+31.03.19 15:30	Pogoń Szczecin	Jagiellonia Białystok	0:0
+30.03.19 20:30	Korona Kielce	Lech Poznań	0:0
+30.03.19 18:00	Arka Gdynia	Śląsk Wrocław	0:2
+30.03.19 15:30	Miedź Legnica	Zagłębie Sosnowiec	0:2
+29.03.19 20:30	Górnik Zabrze	Cracovia	0:1
+29.03.19 20:30	Lechia Gdańsk	Piast Gliwice	2:0
+29.03.19 18:00	Wisła Płock	Zagłębie Lubin	0:1
+17.03.19 18:00	Wisła Kraków	Cracovia	3:2
+17.03.19 15:30	Piast Gliwice	Miedź Legnica	2:1
+17.03.19 15:30	Zagłębie Lubin	Arka Gdynia	0:0
+16.03.19 20:30	Legia Warszawa	Śląsk Wrocław	1:0
+16.03.19 18:00	Zagłębie Sosnowiec	Lechia Gdańsk	0:1
+16.03.19 15:30	Jagiellonia Białystok	Korona Kielce	1:3
+15.03.19 20:30	Lech Poznań	Górnik Zabrze	0:3
+15.03.19 18:00	Wisła Płock	Pogoń Szczecin	0:2
+11.03.19 18:00	Lechia Gdańsk	Wisła Płock	1:1
+10.03.19 18:00	Miedź Legnica	Lech Poznań	3:2
+10.03.19 15:30	Pogoń Szczecin	Zagłębie Lubin	0:3
+09.03.19 20:30	Arka Gdynia	Legia Warszawa	1:2
+09.03.19 18:00	Korona Kielce	Wisła Kraków	2:6
+09.03.19 15:30	Cracovia	Zagłębie Sosnowiec	2:1
+08.03.19 20:30	Śląsk Wrocław	Jagiellonia Białystok	2:0
+08.03.19 18:00	Górnik Zabrze	Piast Gliwice	0:2
+04.03.19 18:00	Zagłębie Lubin	Lechia Gdańsk	2:1
+03.03.19 18:00	Lech Poznań	Arka Gdynia	1:0
+03.03.19 15:30	Wisła Kraków	Pogoń Szczecin	2:3
+02.03.19 20:30	Wisła Płock	Cracovia	3:2
+02.03.19 18:00	Jagiellonia Białystok	Górnik Zabrze	2:2
+02.03.19 15:30	Zagłębie Sosnowiec	Korona Kielce	4:1
+01.03.19 20:30	Legia Warszawa	Miedź Legnica	2:0
+01.03.19 18:00	Piast Gliwice	Śląsk Wrocław	2:0
+25.02.19 18:00	Śląsk Wrocław	Zagłębie Lubin	2:0
+24.02.19 18:00	Cracovia	Jagiellonia Białystok	1:0
+24.02.19 15:30	Miedź Legnica	Wisła Płock	2:1
+23.02.19 20:30	Lechia Gdańsk	Wisła Kraków	1:0
+23.02.19 18:00	Lech Poznań	Legia Warszawa	2:0
+23.02.19 15:30	Górnik Zabrze	Zagłębie Sosnowiec	2:1
+22.02.19 20:30	Korona Kielce	Pogoń Szczecin	1:1
+22.02.19 18:00	Arka Gdynia	Piast Gliwice	1:2
+18.02.19 18:00	Wisła Kraków	Śląsk Wrocław	1:0
+17.02.19 18:00	Legia Warszawa	Cracovia	0:2
+17.02.19 15:30	Zagłębie Lubin	Miedź Legnica	3:0
+16.02.19 20:30	Korona Kielce	Lechia Gdańsk	0:0
+16.02.19 18:00	Zagłębie Sosnowiec	Arka Gdynia	3:2
+16.02.19 15:30	Jagiellonia Białystok	Wisła Płock	1:0
+15.02.19 20:30	Piast Gliwice	Lech Poznań	4:0
+15.02.19 18:00	Pogoń Szczecin	Górnik Zabrze	3:1
+11.02.19 18:00	Górnik Zabrze	Wisła Kraków	2:0
+10.02.19 18:00	Wisła Płock	Legia Warszawa	0:1
+10.02.19 15:30	Arka Gdynia	Korona Kielce	1:2
+09.02.19 20:30	Lechia Gdańsk	Pogoń Szczecin	2:1
+09.02.19 18:00	Cracovia	Piast Gliwice	2:1
+09.02.19 15:30	Śląsk Wrocław	Zagłębie Sosnowiec	2:0
+08.02.19 20:30	Lech Poznań	Zagłębie Lubin	1:2
+08.02.19 18:00	Miedź Legnica	Jagiellonia Białystok	0:3
+22.12.18 18:00	Lechia Gdańsk	Górnik Zabrze	4:0
+22.12.18 18:00	Zagłębie Lubin	Cracovia	1:2
+22.12.18 15:30	Korona Kielce	Miedź Legnica	0:0
+21.12.18 20:30	Wisła Kraków	Lech Poznań	0:1
+21.12.18 18:00	Arka Gdynia	Wisła Płock	3:3
+21.12.18 18:00	Piast Gliwice	Jagiellonia Białystok	1:1
+20.12.18 20:30	Zagłębie Sosnowiec	Legia Warszawa	2:3
+20.12.18 18:00	Pogoń Szczecin	Śląsk Wrocław	2:1
+17.12.18 18:00	Miedź Legnica	Lechia Gdańsk	0:0
+16.12.18 18:00	Zagłębie Sosnowiec	Lech Poznań	0:6
+16.12.18 15:30	Śląsk Wrocław	Korona Kielce	1:1
+15.12.18 20:30	Legia Warszawa	Piast Gliwice	2:0
+15.12.18 18:00	Górnik Zabrze	Arka Gdynia	1:1
+15.12.18 15:30	Cracovia	Pogoń Szczecin	2:1
+14.12.18 20:30	Jagiellonia Białystok	Zagłębie Lubin	0:4
+14.12.18 18:00	Wisła Płock	Wisła Kraków	1:2
+10.12.18 18:00	Arka Gdynia	Cracovia	0:3
+09.12.18 18:00	Lechia Gdańsk	Legia Warszawa	0:0
+09.12.18 15:30	Górnik Zabrze	Miedź Legnica	1:3
+08.12.18 20:30	Wisła Kraków	Jagiellonia Białystok	2:2
+08.12.18 18:00	Korona Kielce	Wisła Płock	2:2
+08.12.18 15:30	Pogoń Szczecin	Zagłębie Sosnowiec	1:0
+07.12.18 20:30	Lech Poznań	Śląsk Wrocław	2:0
+07.12.18 18:00	Zagłębie Lubin	Piast Gliwice	2:2
+03.12.18 18:00	Piast Gliwice	Pogoń Szczecin	3:0
+02.12.18 18:00	Cracovia	Lech Poznań	1:0
+02.12.18 15:30	Zagłębie Sosnowiec	Zagłębie Lubin	1:2
+01.12.18 20:30	Legia Warszawa	Korona Kielce	3:0
+01.12.18 18:00	Miedź Legnica	Wisła Kraków	2:0
+01.12.18 15:30	Wisła Płock	Górnik Zabrze	0:4
+30.11.18 20:30	Jagiellonia Białystok	Arka Gdynia	3:1
+30.11.18 18:00	Śląsk Wrocław	Lechia Gdańsk	0:2
+26.11.18 18:00	Arka Gdynia	Wisła Kraków	4:1
+25.11.18 18:00	Lechia Gdańsk	Jagiellonia Białystok	3:2
+25.11.18 15:30	Zagłębie Lubin	Legia Warszawa	0:1
+25.11.18 13:00	Pogoń Szczecin	Miedź Legnica	2:0
+24.11.18 20:30	Cracovia	Śląsk Wrocław	1:1
+24.11.18 18:00	Lech Poznań	Wisła Płock	2:1
+24.11.18 15:30	Korona Kielce	Górnik Zabrze	4:2
+23.11.18 18:00	Piast Gliwice	Zagłębie Sosnowiec	0:0
+11.11.18 18:00	Jagiellonia Białystok	Lech Poznań	2:2
+11.11.18 15:30	Korona Kielce	Piast Gliwice	1:0
+11.11.18 15:30	Miedź Legnica	Arka Gdynia	0:4
+10.11.18 20:30	Wisła Kraków	Zagłębie Lubin	3:2
+10.11.18 18:00	Lechia Gdańsk	Cracovia	1:0
+10.11.18 15:30	Wisła Płock	Zagłębie Sosnowiec	2:0
+09.11.18 20:30	Pogoń Szczecin	Legia Warszawa	2:1
+09.11.18 18:00	Górnik Zabrze	Śląsk Wrocław	2:2
+05.11.18 18:00	Zagłębie Sosnowiec	Jagiellonia Białystok	1:4
+04.11.18 18:00	Lech Poznań	Lechia Gdańsk	0:1
+04.11.18 15:30	Zagłębie Lubin	Korona Kielce	0:1
+03.11.18 20:30	Legia Warszawa	Górnik Zabrze	4:0
+03.11.18 18:00	Śląsk Wrocław	Wisła Płock	0:3
+03.11.18 15:30	Cracovia	Miedź Legnica	0:0
+02.11.18 20:30	Piast Gliwice	Wisła Kraków	2:0
+02.11.18 18:00	Arka Gdynia	Pogoń Szczecin	2:3
+29.10.18 18:00	Wisła Kraków	Zagłębie Sosnowiec	2:2
+28.10.18 18:00	Górnik Zabrze	Zagłębie Lubin	2:0
+28.10.18 15:30	Korona Kielce	Cracovia	0:1
+27.10.18 20:30	Pogoń Szczecin	Lech Poznań	3:0
+27.10.18 18:00	Lechia Gdańsk	Arka Gdynia	2:1
+27.10.18 15:30	Wisła Płock	Piast Gliwice	1:1
+26.10.18 20:30	Jagiellonia Białystok	Legia Warszawa	1:1
+26.10.18 18:00	Miedź Legnica	Śląsk Wrocław	0:5
+22.10.18 18:00	Cracovia	Górnik Zabrze	2:0
+21.10.18 18:00	Legia Warszawa	Wisła Kraków	3:3
+21.10.18 15:30	Zagłębie Lubin	Wisła Płock	3:3
+20.10.18 20:30	Lech Poznań	Korona Kielce	2:1
+20.10.18 18:00	Śląsk Wrocław	Arka Gdynia	1:2
+20.10.18 15:30	Zagłębie Sosnowiec	Miedź Legnica	3:1
+19.10.18 20:30	Jagiellonia Białystok	Pogoń Szczecin	2:1
+19.10.18 18:00	Piast Gliwice	Lechia Gdańsk	1:1
+07.10.18 18:00	Cracovia	Wisła Kraków	0:2
+07.10.18 15:30	Arka Gdynia	Zagłębie Lubin	3:1
+07.10.18 15:30	Korona Kielce	Jagiellonia Białystok	1:1
+06.10.18 20:30	Śląsk Wrocław	Legia Warszawa	0:1
+06.10.18 18:00	Lechia Gdańsk	Zagłębie Sosnowiec	4:1
+06.10.18 15:30	Pogoń Szczecin	Wisła Płock	4:0
+05.10.18 20:30	Górnik Zabrze	Lech Poznań	2:2
+05.10.18 18:00	Miedź Legnica	Piast Gliwice	2:2
+01.10.18 18:00	Jagiellonia Białystok	Śląsk Wrocław	0:4
+30.09.18 18:00	Lech Poznań	Miedź Legnica	2:1
+30.09.18 15:30	Zagłębie Sosnowiec	Cracovia	1:1
+29.09.18 20:30	Wisła Kraków	Korona Kielce	0:1
+29.09.18 18:00	Zagłębie Lubin	Pogoń Szczecin	0:2
+29.09.18 15:30	Piast Gliwice	Górnik Zabrze	1:0
+28.09.18 20:30	Legia Warszawa	Arka Gdynia	1:1
+28.09.18 18:00	Wisła Płock	Lechia Gdańsk	1:0
+24.09.18 18:00	Korona Kielce	Zagłębie Sosnowiec	3:1
+23.09.18 18:00	Górnik Zabrze	Jagiellonia Białystok	1:3
+23.09.18 15:30	Śląsk Wrocław	Piast Gliwice	4:1
+22.09.18 20:30	Miedź Legnica	Legia Warszawa	1:4
+22.09.18 18:00	Lechia Gdańsk	Zagłębie Lubin	3:3
+22.09.18 15:30	Cracovia	Wisła Płock	3:1
+21.09.18 20:30	Arka Gdynia	Lech Poznań	1:0
+21.09.18 18:00	Pogoń Szczecin	Wisła Kraków	2:1
+17.09.18 18:00	Zagłębie Sosnowiec	Górnik Zabrze	1:1
+16.09.18 18:00	Legia Warszawa	Lech Poznań	1:0
+16.09.18 15:30	Pogoń Szczecin	Korona Kielce	1:1
+15.09.18 20:30	Wisła Kraków	Lechia Gdańsk	5:2
+15.09.18 18:00	Piast Gliwice	Arka Gdynia	1:0
+15.09.18 15:30	Wisła Płock	Miedź Legnica	2:2
+14.09.18 20:30	Jagiellonia Białystok	Cracovia	3:1
+14.09.18 18:00	Zagłębie Lubin	Śląsk Wrocław	4:0
+02.09.18 18:00	Cracovia	Legia Warszawa	0:0
+02.09.18 15:30	Miedź Legnica	Zagłębie Lubin	2:0
+02.09.18 15:30	Wisła Płock	Jagiellonia Białystok	1:1
+01.09.18 20:30	Lech Poznań	Piast Gliwice	1:1
+01.09.18 18:00	Śląsk Wrocław	Wisła Kraków	0:1
+01.09.18 15:30	Arka Gdynia	Zagłębie Sosnowiec	2:2
+31.08.18 20:30	Lechia Gdańsk	Korona Kielce	2:0
+31.08.18 18:00	Górnik Zabrze	Pogoń Szczecin	1:1
+27.08.18 18:00	Zagłębie Sosnowiec	Śląsk Wrocław	3:3
+26.08.18 18:00	Zagłębie Lubin	Lech Poznań	2:1
+26.08.18 15:30	Jagiellonia Białystok	Miedź Legnica	2:3
+26.08.18 15:30	Legia Warszawa	Wisła Płock	1:4
+25.08.18 20:30	Wisła Kraków	Górnik Zabrze	3:0
+25.08.18 18:00	Pogoń Szczecin	Lechia Gdańsk	2:3
+24.08.18 20:30	Korona Kielce	Arka Gdynia	2:1
+24.08.18 18:00	Piast Gliwice	Cracovia	3:1
+20.08.18 18:00	Śląsk Wrocław	Pogoń Szczecin	0:0
+19.08.18 18:00	Jagiellonia Białystok	Piast Gliwice	2:1
+19.08.18 18:00	Lech Poznań	Wisła Kraków	2:5
+19.08.18 15:30	Legia Warszawa	Zagłębie Sosnowiec	2:1
+18.08.18 20:30	Górnik Zabrze	Lechia Gdańsk	0:2
+18.08.18 18:00	Wisła Płock	Arka Gdynia	1:3
+17.08.18 20:30	Miedź Legnica	Korona Kielce	1:1
+17.08.18 18:00	Cracovia	Zagłębie Lubin	0:1
+13.08.18 18:00	Korona Kielce	Śląsk Wrocław	2:1
+12.08.18 18:00	Lech Poznań	Zagłębie Sosnowiec	4:0
+12.08.18 18:00	Zagłębie Lubin	Jagiellonia Białystok	0:2
+12.08.18 15:30	Piast Gliwice	Legia Warszawa	1:3
+11.08.18 20:30	Arka Gdynia	Górnik Zabrze	1:1
+11.08.18 18:00	Pogoń Szczecin	Cracovia	1:1
+10.08.18 20:30	Wisła Kraków	Wisła Płock	1:1
+10.08.18 18:00	Lechia Gdańsk	Miedź Legnica	2:0
+06.08.18 18:00	Cracovia	Arka Gdynia	0:0
+05.08.18 18:00	Jagiellonia Białystok	Wisła Kraków	1:0
+05.08.18 18:00	Miedź Legnica	Górnik Zabrze	1:3
+05.08.18 15:30	Śląsk Wrocław	Lech Poznań	0:1
+04.08.18 20:30	Legia Warszawa	Lechia Gdańsk	0:0
+04.08.18 18:00	Piast Gliwice	Zagłębie Lubin	2:1
+03.08.18 20:30	Zagłębie Sosnowiec	Pogoń Szczecin	3:0
+03.08.18 18:00	Wisła Płock	Korona Kielce	1:2
+30.07.18 18:00	Pogoń Szczecin	Piast Gliwice	0:2
+29.07.18 18:00	Arka Gdynia	Jagiellonia Białystok	0:2
+29.07.18 18:00	Lech Poznań	Cracovia	2:0
+29.07.18 15:30	Górnik Zabrze	Wisła Płock	1:1
+28.07.18 20:30	Korona Kielce	Legia Warszawa	1:2
+28.07.18 18:00	Zagłębie Lubin	Zagłębie Sosnowiec	2:1
+27.07.18 20:30	Wisła Kraków	Miedź Legnica	2:1
+27.07.18 18:00	Lechia Gdańsk	Śląsk Wrocław	1:1
+23.07.18 18:00	Zagłębie Sosnowiec	Piast Gliwice	1:2
+22.07.18 18:00	Wisła Płock	Lech Poznań	1:2
+22.07.18 15:30	Górnik Zabrze	Korona Kielce	1:1
+21.07.18 20:30	Legia Warszawa	Zagłębie Lubin	1:3
+21.07.18 18:00	Wisła Kraków	Arka Gdynia	0:0
+21.07.18 15:30	Śląsk Wrocław	Cracovia	3:1
+20.07.18 20:30	Jagiellonia Białystok	Lechia Gdańsk	0:1
+20.07.18 18:00	Miedź Legnica	Pogoń Szczecin	1:0

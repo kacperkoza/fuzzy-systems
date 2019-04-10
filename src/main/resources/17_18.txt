@@ -1,0 +1,296 @@
+20.05.18 18:00	Górnik Zabrze	Wisła Kraków	2:0
+20.05.18 18:00	Jagiellonia Białystok	Wisła Płock	2:1
+20.05.18 18:00	Korona Kielce	Zagłębie Lubin	0:2
+20.05.18 18:00	Lech Poznań	Legia Warszawa	0:3
+19.05.18 18:00	Arka Gdynia	Śląsk Wrocław	0:1
+19.05.18 18:00	Cracovia	Pogoń Szczecin	1:4
+19.05.18 18:00	Lechia Gdańsk	Sandecja Nowy Sącz	1:1
+19.05.18 18:00	Piast Gliwice	Bruk Bet T.	4:0
+13.05.18 18:00	Legia Warszawa	Górnik Zabrze	2:0
+13.05.18 18:00	Wisła Kraków	Lech Poznań	1:1
+13.05.18 18:00	Wisła Płock	Korona Kielce	4:1
+13.05.18 18:00	Zagłębie Lubin	Jagiellonia Białystok	1:2
+12.05.18 15:30	Bruk Bet T.	Arka Gdynia	2:1
+12.05.18 15:30	Pogoń Szczecin	Lechia Gdańsk	1:1
+12.05.18 15:30	Sandecja Nowy Sącz	Cracovia	0:1
+12.05.18 15:30	Śląsk Wrocław	Piast Gliwice	3:1
+09.05.18 20:30	Lech Poznań	Jagiellonia Białystok	0:2
+09.05.18 20:30	Wisła Kraków	Zagłębie Lubin	3:0
+09.05.18 18:00	Górnik Zabrze	Korona Kielce	2:2
+09.05.18 18:00	Legia Warszawa	Wisła Płock	3:2
+08.05.18 20:30	Arka Gdynia	Cracovia	2:0
+08.05.18 20:30	Śląsk Wrocław	Pogoń Szczecin	2:0
+08.05.18 18:00	Bruk Bet T.	Sandecja Nowy Sącz	1:1
+08.05.18 18:00	Piast Gliwice	Lechia Gdańsk	0:2
+06.05.18 18:00	Jagiellonia Białystok	Legia Warszawa	0:0
+06.05.18 15:30	Korona Kielce	Wisła Kraków	0:3
+06.05.18 15:30	Zagłębie Lubin	Górnik Zabrze	0:2
+05.05.18 20:30	Wisła Płock	Lech Poznań	0:0
+05.05.18 18:00	Pogoń Szczecin	Arka Gdynia	3:2
+05.05.18 15:30	Sandecja Nowy Sącz	Piast Gliwice	2:1
+04.05.18 20:30	Lechia Gdańsk	Bruk Bet T.	0:1
+04.05.18 18:00	Cracovia	Śląsk Wrocław	3:3
+30.04.18 18:00	Śląsk Wrocław	Lechia Gdańsk	3:1
+29.04.18 18:00	Jagiellonia Białystok	Wisła Kraków	0:1
+29.04.18 15:30	Cracovia	Bruk Bet T.	4:2
+28.04.18 20:30	Lech Poznań	Górnik Zabrze	2:4
+28.04.18 18:00	Pogoń Szczecin	Sandecja Nowy Sącz	2:0
+28.04.18 15:30	Wisła Płock	Zagłębie Lubin	1:2
+27.04.18 20:30	Legia Warszawa	Korona Kielce	3:1
+27.04.18 18:00	Arka Gdynia	Piast Gliwice	1:5
+23.04.18 18:00	Lechia Gdańsk	Cracovia	0:0
+22.04.18 18:00	Wisła Kraków	Legia Warszawa	0:1
+22.04.18 15:30	Sandecja Nowy Sącz	Arka Gdynia	3:1
+21.04.18 20:30	Korona Kielce	Jagiellonia Białystok	0:3
+21.04.18 18:00	Górnik Zabrze	Wisła Płock	0:1
+21.04.18 15:30	Piast Gliwice	Pogoń Szczecin	0:0
+20.04.18 20:30	Zagłębie Lubin	Lech Poznań	0:1
+20.04.18 18:00	Bruk Bet T.	Śląsk Wrocław	1:2
+16.04.18 18:00	Wisła Płock	Wisła Kraków	2:2
+15.04.18 18:00	Śląsk Wrocław	Sandecja Nowy Sącz	1:0
+15.04.18 15:30	Pogoń Szczecin	Bruk Bet T.	2:0
+14.04.18 20:30	Legia Warszawa	Zagłębie Lubin	0:1
+14.04.18 18:00	Jagiellonia Białystok	Górnik Zabrze	1:2
+14.04.18 15:30	Cracovia	Piast Gliwice	2:1
+13.04.18 20:30	Lech Poznań	Korona Kielce	0:1
+13.04.18 18:00	Arka Gdynia	Lechia Gdańsk	1:2
+07.04.18 18:00	Cracovia	Zagłębie Lubin	2:2
+07.04.18 18:00	Jagiellonia Białystok	Wisła Płock	1:3
+07.04.18 18:00	Lech Poznań	Górnik Zabrze	3:1
+07.04.18 18:00	Lechia Gdańsk	Arka Gdynia	4:2
+07.04.18 18:00	Legia Warszawa	Pogoń Szczecin	3:0
+07.04.18 18:00	Piast Gliwice	Bruk Bet T.	1:1
+07.04.18 18:00	Sandecja Nowy Sącz	Wisła Kraków	0:0
+07.04.18 18:00	Śląsk Wrocław	Korona Kielce	1:1
+02.04.18 18:00	Pogoń Szczecin	Śląsk Wrocław	3:2
+02.04.18 18:00	Wisła Kraków	Lech Poznań	1:3
+02.04.18 15:30	Wisła Płock	Piast Gliwice	1:0
+02.04.18 15:30	Zagłębie Lubin	Jagiellonia Białystok	1:0
+31.03.18 20:30	Arka Gdynia	Legia Warszawa	1:0
+31.03.18 18:00	Korona Kielce	Lechia Gdańsk	1:0
+31.03.18 15:30	Bruk Bet T.	Cracovia	2:0
+31.03.18 15:30	Górnik Zabrze	Sandecja Nowy Sącz	2:2
+18.03.18 18:00	Legia Warszawa	Wisła Kraków	0:2
+18.03.18 15:30	Cracovia	Sandecja Nowy Sącz	2:1
+18.03.18 15:30	Śląsk Wrocław	Wisła Płock	1:1
+17.03.18 20:30	Korona Kielce	Górnik Zabrze	2:2
+17.03.18 18:00	Jagiellonia Białystok	Arka Gdynia	3:2
+17.03.18 15:30	Bruk Bet T.	Pogoń Szczecin	2:4
+16.03.18 20:30	Lech Poznań	Lechia Gdańsk	3:0
+16.03.18 18:00	Piast Gliwice	Zagłębie Lubin	0:0
+12.03.18 18:00	Arka Gdynia	Bruk Bet T.	4:0
+11.03.18 18:00	Lechia Gdańsk	Legia Warszawa	1:3
+11.03.18 15:30	Lech Poznań	Jagiellonia Białystok	5:1
+10.03.18 20:30	Wisła Płock	Korona Kielce	2:0
+10.03.18 18:00	Pogoń Szczecin	Cracovia	0:3
+10.03.18 15:30	Sandecja Nowy Sącz	Piast Gliwice	0:3
+09.03.18 20:30	Wisła Kraków	Śląsk Wrocław	3:1
+09.03.18 18:00	Górnik Zabrze	Zagłębie Lubin	2:2
+05.03.18 18:00	Jagiellonia Białystok	Wisła Kraków	2:0
+04.03.18 18:00	Legia Warszawa	Lech Poznań	2:1
+04.03.18 15:30	Cracovia	Arka Gdynia	2:1
+03.03.18 20:30	Piast Gliwice	Górnik Zabrze	0:3
+03.03.18 18:00	Korona Kielce	Pogoń Szczecin	0:0
+03.03.18 15:30	Śląsk Wrocław	Sandecja Nowy Sącz	0:0
+02.03.18 20:30	Zagłębie Lubin	Lechia Gdańsk	0:0
+02.03.18 18:00	Bruk Bet T.	Wisła Płock	1:2
+28.02.18 20:30	Arka Gdynia	Piast Gliwice	0:0
+28.02.18 20:30	Lech Poznań	Śląsk Wrocław	2:1
+28.02.18 18:00	Górnik Zabrze	Pogoń Szczecin	0:0
+28.02.18 18:00	Wisła Kraków	Korona Kielce	1:1
+27.02.18 20:30	Legia Warszawa	Jagiellonia Białystok	0:2
+27.02.18 20:30	Sandecja Nowy Sącz	Zagłębie Lubin	0:1
+27.02.18 18:00	Lechia Gdańsk	Bruk Bet T.	2:2
+27.02.18 18:00	Wisła Płock	Cracovia	0:1
+25.02.18 18:00	Korona Kielce	Lech Poznań	1:0
+25.02.18 15:30	Piast Gliwice	Wisła Kraków	0:0
+25.02.18 15:30	Śląsk Wrocław	Górnik Zabrze	1:1
+24.02.18 20:30	Cracovia	Legia Warszawa	0:0
+24.02.18 18:00	Pogoń Szczecin	Wisła Płock	2:1
+24.02.18 15:30	Bruk Bet T.	Sandecja Nowy Sącz	1:0
+23.02.18 20:30	Jagiellonia Białystok	Lechia Gdańsk	4:1
+23.02.18 18:00	Zagłębie Lubin	Arka Gdynia	0:0
+19.02.18 18:00	Górnik Zabrze	Bruk Bet T.	3:0
+18.02.18 18:00	Lech Poznań	Pogoń Szczecin	2:0
+18.02.18 15:30	Lechia Gdańsk	Piast Gliwice	0:2
+17.02.18 20:30	Wisła Kraków	Arka Gdynia	3:2
+17.02.18 18:00	Jagiellonia Białystok	Cracovia	1:0
+17.02.18 15:30	Wisła Płock	Zagłębie Lubin	2:0
+16.02.18 20:30	Legia Warszawa	Śląsk Wrocław	4:1
+16.02.18 18:00	Sandecja Nowy Sącz	Korona Kielce	3:3
+12.02.18 18:00	Piast Gliwice	Jagiellonia Białystok	0:2
+11.02.18 18:00	Arka Gdynia	Lech Poznań	0:0
+11.02.18 15:30	Bruk Bet T.	Korona Kielce	0:3
+10.02.18 20:30	Lechia Gdańsk	Wisła Kraków	1:1
+10.02.18 18:00	Cracovia	Śląsk Wrocław	2:1
+10.02.18 15:30	Pogoń Szczecin	Sandecja Nowy Sącz	4:1
+09.02.18 20:30	Zagłębie Lubin	Legia Warszawa	2:3
+09.02.18 18:00	Wisła Płock	Górnik Zabrze	4:2
+18.12.17 18:00	Górnik Zabrze	Cracovia	0:4
+17.12.17 18:00	Wisła Kraków	Zagłębie Lubin	1:2
+17.12.17 15:30	Lech Poznań	Bruk Bet T.	3:1
+16.12.17 20:30	Legia Warszawa	Wisła Płock	0:2
+16.12.17 18:00	Sandecja Nowy Sącz	Lechia Gdańsk	2:2
+16.12.17 15:30	Pogoń Szczecin	Arka Gdynia	1:0
+15.12.17 20:30	Śląsk Wrocław	Jagiellonia Białystok	1:0
+15.12.17 18:00	Korona Kielce	Piast Gliwice	1:1
+13.12.17 20:30	Cracovia	Wisła Kraków	1:4
+13.12.17 20:30	Wisła Płock	Sandecja Nowy Sącz	2:2
+13.12.17 18:00	Lechia Gdańsk	Pogoń Szczecin	1:3
+13.12.17 18:00	Zagłębie Lubin	Lech Poznań	0:0
+12.12.17 20:30	Arka Gdynia	Górnik Zabrze	1:0
+12.12.17 20:30	Bruk Bet T.	Śląsk Wrocław	2:1
+12.12.17 18:00	Jagiellonia Białystok	Korona Kielce	5:1
+12.12.17 18:00	Piast Gliwice	Legia Warszawa	0:1
+10.12.17 18:00	Lech Poznań	Cracovia	1:0
+10.12.17 15:30	Pogoń Szczecin	Zagłębie Lubin	3:3
+10.12.17 15:30	Wisła Kraków	Wisła Płock	0:1
+09.12.17 20:30	Legia Warszawa	Bruk Bet T.	3:0
+09.12.17 18:00	Korona Kielce	Arka Gdynia	0:3
+09.12.17 15:30	Śląsk Wrocław	Piast Gliwice	2:2
+08.12.17 20:30	Górnik Zabrze	Lechia Gdańsk	1:1
+08.12.17 18:00	Sandecja Nowy Sącz	Jagiellonia Białystok	0:1
+04.12.17 18:00	Cracovia	Korona Kielce	2:2
+03.12.17 18:00	Wisła Kraków	Górnik Zabrze	2:3
+03.12.17 15:30	Piast Gliwice	Lech Poznań	0:0
+02.12.17 20:30	Sandecja Nowy Sącz	Legia Warszawa	2:2
+02.12.17 18:00	Zagłębie Lubin	Bruk Bet T.	4:2
+02.12.17 15:30	Wisła Płock	Arka Gdynia	2:0
+01.12.17 20:30	Lechia Gdańsk	Śląsk Wrocław	3:1
+01.12.17 18:00	Jagiellonia Białystok	Pogoń Szczecin	1:0
+27.11.17 18:00	Bruk Bet T.	Wisła Kraków	3:3
+26.11.17 18:00	Śląsk Wrocław	Zagłębie Lubin	1:0
+26.11.17 15:30	Lech Poznań	Wisła Płock	2:1
+25.11.17 20:30	Korona Kielce	Legia Warszawa	3:2
+25.11.17 18:00	Arka Gdynia	Sandecja Nowy Sącz	5:0
+25.11.17 16:00	Pogoń Szczecin	Piast Gliwice	2:2
+24.11.17 20:30	Górnik Zabrze	Jagiellonia Białystok	3:1
+24.11.17 18:00	Cracovia	Lechia Gdańsk	2:1
+20.11.17 18:00	Zagłębie Lubin	Korona Kielce	0:0
+19.11.17 18:00	Legia Warszawa	Górnik Zabrze	1:0
+19.11.17 15:30	Śląsk Wrocław	Arka Gdynia	1:2
+18.11.17 20:30	Lechia Gdańsk	Wisła Płock	3:0
+18.11.17 18:00	Sandecja Nowy Sącz	Lech Poznań	0:0
+18.11.17 15:30	Piast Gliwice	Cracovia	1:0
+17.11.17 20:30	Wisła Kraków	Pogoń Szczecin	1:0
+17.11.17 18:00	Jagiellonia Białystok	Bruk Bet T.	0:0
+05.11.17 18:00	Pogoń Szczecin	Legia Warszawa	1:3
+05.11.17 15:30	Bruk Bet T.	Piast Gliwice	2:1
+05.11.17 15:30	Zagłębie Lubin	Cracovia	1:2
+04.11.17 20:30	Górnik Zabrze	Lech Poznań	3:1
+04.11.17 18:00	Wisła Kraków	Sandecja Nowy Sącz	3:0
+04.11.17 15:30	Wisła Płock	Jagiellonia Białystok	1:2
+03.11.17 20:30	Arka Gdynia	Lechia Gdańsk	0:1
+03.11.17 18:00	Korona Kielce	Śląsk Wrocław	3:0
+30.10.17 18:00	Lechia Gdańsk	Korona Kielce	0:5
+29.10.17 18:00	Legia Warszawa	Arka Gdynia	2:0
+29.10.17 15:30	Jagiellonia Białystok	Zagłębie Lubin	3:1
+28.10.17 20:30	Sandecja Nowy Sącz	Górnik Zabrze	1:2
+28.10.17 18:00	Cracovia	Bruk Bet T.	1:1
+28.10.17 15:30	Piast Gliwice	Wisła Płock	2:1
+27.10.17 20:30	Lech Poznań	Wisła Kraków	1:1
+27.10.17 18:00	Śląsk Wrocław	Pogoń Szczecin	3:0
+23.10.17 18:00	Wisła Płock	Śląsk Wrocław	4:1
+22.10.17 18:00	Wisła Kraków	Legia Warszawa	0:1
+22.10.17 15:30	Arka Gdynia	Jagiellonia Białystok	4:1
+21.10.17 20:30	Lechia Gdańsk	Lech Poznań	3:3
+21.10.17 18:00	Pogoń Szczecin	Bruk Bet T.	2:3
+21.10.17 15:30	Sandecja Nowy Sącz	Cracovia	1:1
+20.10.17 20:30	Górnik Zabrze	Korona Kielce	3:3
+20.10.17 18:00	Zagłębie Lubin	Piast Gliwice	2:2
+16.10.17 18:00	Cracovia	Pogoń Szczecin	3:0
+15.10.17 18:00	Legia Warszawa	Lechia Gdańsk	1:0
+15.10.17 15:30	Zagłębie Lubin	Górnik Zabrze	3:2
+14.10.17 20:30	Śląsk Wrocław	Wisła Kraków	0:2
+14.10.17 18:00	Bruk Bet T.	Arka Gdynia	1:1
+14.10.17 15:30	Piast Gliwice	Sandecja Nowy Sącz	2:2
+13.10.17 20:30	Jagiellonia Białystok	Lech Poznań	1:1
+13.10.17 18:00	Korona Kielce	Wisła Płock	2:0
+01.10.17 18:00	Lech Poznań	Legia Warszawa	3:0
+01.10.17 15:30	Górnik Zabrze	Piast Gliwice	1:0
+01.10.17 15:30	Wisła Płock	Bruk Bet T.	1:0
+30.09.17 20:30	Wisła Kraków	Jagiellonia Białystok	0:0
+30.09.17 18:00	Pogoń Szczecin	Korona Kielce	0:0
+30.09.17 15:30	Lechia Gdańsk	Zagłębie Lubin	1:0
+29.09.17 20:30	Arka Gdynia	Cracovia	1:1
+29.09.17 18:00	Sandecja Nowy Sącz	Śląsk Wrocław	1:1
+25.09.17 18:00	Cracovia	Wisła Płock	1:3
+24.09.17 18:00	Jagiellonia Białystok	Legia Warszawa	1:0
+24.09.17 15:30	Zagłębie Lubin	Sandecja Nowy Sącz	1:0
+23.09.17 20:30	Korona Kielce	Wisła Kraków	2:1
+23.09.17 18:00	Pogoń Szczecin	Górnik Zabrze	1:2
+23.09.17 15:30	Bruk Bet T.	Lechia Gdańsk	2:1
+22.09.17 20:30	Śląsk Wrocław	Lech Poznań	2:0
+22.09.17 18:00	Piast Gliwice	Arka Gdynia	0:1
+18.09.17 18:00	Lechia Gdańsk	Jagiellonia Białystok	3:3
+17.09.17 18:00	Legia Warszawa	Cracovia	1:0
+17.09.17 15:30	Sandecja Nowy Sącz	Bruk Bet T.	1:0
+16.09.17 20:30	Wisła Kraków	Piast Gliwice	2:0
+16.09.17 18:00	Górnik Zabrze	Śląsk Wrocław	2:2
+16.09.17 15:30	Wisła Płock	Pogoń Szczecin	3:1
+15.09.17 20:30	Lech Poznań	Korona Kielce	1:0
+15.09.17 18:00	Arka Gdynia	Zagłębie Lubin	1:1
+11.09.17 18:00	Piast Gliwice	Lechia Gdańsk	1:2
+10.09.17 18:00	Pogoń Szczecin	Lech Poznań	0:0
+10.09.17 15:30	Bruk Bet T.	Górnik Zabrze	1:2
+09.09.17 20:30	Cracovia	Jagiellonia Białystok	1:1
+09.09.17 18:00	Śląsk Wrocław	Legia Warszawa	2:1
+09.09.17 15:30	Korona Kielce	Sandecja Nowy Sącz	1:0
+08.09.17 20:30	Arka Gdynia	Wisła Kraków	3:1
+08.09.17 18:00	Zagłębie Lubin	Wisła Płock	2:2
+27.08.17 18:00	Legia Warszawa	Zagłębie Lubin	2:1
+27.08.17 15:30	Lech Poznań	Arka Gdynia	3:0
+27.08.17 15:30	Sandecja Nowy Sącz	Pogoń Szczecin	2:1
+26.08.17 20:30	Wisła Kraków	Lechia Gdańsk	1:1
+26.08.17 18:00	Jagiellonia Białystok	Piast Gliwice	0:1
+26.08.17 15:30	Korona Kielce	Bruk Bet T.	2:1
+25.08.17 20:30	Śląsk Wrocław	Cracovia	2:1
+25.08.17 18:00	Górnik Zabrze	Wisła Płock	4:0
+21.08.17 18:00	Zagłębie Lubin	Wisła Kraków	3:0
+20.08.17 18:00	Bruk Bet T.	Lech Poznań	1:3
+20.08.17 15:30	Wisła Płock	Legia Warszawa	0:1
+19.08.17 20:30	Jagiellonia Białystok	Śląsk Wrocław	1:1
+19.08.17 18:00	Piast Gliwice	Korona Kielce	2:0
+19.08.17 15:30	Arka Gdynia	Pogoń Szczecin	0:3
+18.08.17 20:30	Cracovia	Górnik Zabrze	3:3
+18.08.17 18:00	Lechia Gdańsk	Sandecja Nowy Sącz	2:3
+15.08.17 15:30	Śląsk Wrocław	Bruk Bet T.	1:1
+14.08.17 18:00	Pogoń Szczecin	Lechia Gdańsk	0:0
+13.08.17 18:00	Korona Kielce	Jagiellonia Białystok	2:3
+13.08.17 15:30	Górnik Zabrze	Arka Gdynia	1:1
+12.08.17 20:30	Wisła Kraków	Cracovia	2:1
+12.08.17 18:00	Lech Poznań	Zagłębie Lubin	1:1
+12.08.17 15:30	Sandecja Nowy Sącz	Wisła Płock	0:1
+11.08.17 20:30	Legia Warszawa	Piast Gliwice	3:1
+07.08.17 18:00	Arka Gdynia	Korona Kielce	0:0
+06.08.17 18:00	Cracovia	Lech Poznań	0:2
+06.08.17 15:30	Jagiellonia Białystok	Sandecja Nowy Sącz	1:3
+05.08.17 20:30	Bruk Bet T.	Legia Warszawa	1:0
+05.08.17 18:00	Zagłębie Lubin	Pogoń Szczecin	3:0
+05.08.17 15:30	Lechia Gdańsk	Górnik Zabrze	1:1
+04.08.17 20:30	Wisła Płock	Wisła Kraków	0:1
+04.08.17 18:00	Piast Gliwice	Śląsk Wrocław	1:1
+31.07.17 18:00	Korona Kielce	Cracovia	4:2
+30.07.17 18:00	Lech Poznań	Piast Gliwice	5:1
+30.07.17 15:30	Arka Gdynia	Wisła Płock	1:1
+30.07.17 15:30	Pogoń Szczecin	Jagiellonia Białystok	0:1
+29.07.17 20:30	Górnik Zabrze	Wisła Kraków	3:2
+29.07.17 18:00	Legia Warszawa	Sandecja Nowy Sącz	2:0
+28.07.17 20:30	Śląsk Wrocław	Lechia Gdańsk	3:2
+28.07.17 18:00	Bruk Bet T.	Zagłębie Lubin	1:1
+24.07.17 18:00	Zagłębie Lubin	Śląsk Wrocław	1:0
+23.07.17 18:00	Jagiellonia Białystok	Górnik Zabrze	2:1
+23.07.17 15:30	Wisła Płock	Lech Poznań	1:0
+22.07.17 20:30	Legia Warszawa	Korona Kielce	1:1
+22.07.17 18:00	Lechia Gdańsk	Cracovia	0:1
+22.07.17 15:30	Piast Gliwice	Pogoń Szczecin	1:2
+21.07.17 20:30	Wisła Kraków	Bruk Bet T.	1:0
+21.07.17 18:00	Sandecja Nowy Sącz	Arka Gdynia	0:0
+17.07.17 18:00	Korona Kielce	Zagłębie Lubin	0:1
+16.07.17 18:00	Lech Poznań	Sandecja Nowy Sącz	0:0
+16.07.17 15:30	Arka Gdynia	Śląsk Wrocław	2:0
+16.07.17 15:30	Bruk Bet T.	Jagiellonia Białystok	0:1
+15.07.17 20:30	Górnik Zabrze	Legia Warszawa	3:1
+15.07.17 18:00	Cracovia	Piast Gliwice	1:1
+14.07.17 20:30	Pogoń Szczecin	Wisła Kraków	1:2
+14.07.17 18:00	Wisła Płock	Lechia Gdańsk	0:2
