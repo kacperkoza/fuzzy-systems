@@ -1,5 +1,8 @@
+package allstats;
+
 import domain.Team;
 import domain.TeamStats;
+import util.LinesReader;
 
 import java.util.List;
 import java.util.Map;
@@ -13,10 +16,13 @@ public class AllStatsTeamProvider {
     private final Map<Team, TeamStats> teamToStats;
 
     public AllStatsTeamProvider() {
-        LinesReader linesReader = new LinesReader();
-        List<String> lines = linesReader.readLinesFromFile(ALL_TIME_STATS_FILE);
+        teamToStats = mapTeamToStats();
+    }
+
+    private Map<Team, TeamStats> mapTeamToStats() {
+        List<String> lines = new LinesReader().readLinesFromFile(ALL_TIME_STATS_FILE);
         AllTimeStatsParser statsParser = new AllTimeStatsParser();
-        teamToStats = lines.stream()
+        return lines.stream()
                 .map(statsParser::parse)
                 .filter(stats -> stats.getTeam() != null)
                 .collect(Collectors.toMap(
@@ -28,6 +34,5 @@ public class AllStatsTeamProvider {
     public TeamStats getStats(Team team) {
         return teamToStats.get(team);
     }
-
 
 }

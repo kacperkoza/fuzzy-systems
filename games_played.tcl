@@ -21,12 +21,12 @@ END_FUZZIFY
 
 FUZZIFY chance_to_win
    TERM guest := (-1, 0) (-1, 1) (0, 0);
-   TERM draw := (-1, 0) (0, 1) (1 , 0);
+   TERM draw := (-0.5, 0) (0, 1) (0.5 , 0);
    TERM host := (0, 0) (1, 1) (1, 0);
 END_FUZZIFY
 
 DEFUZZIFY chance_to_win
-    METHOD: COGS;
+    METHOD: COG;
 END_DEFUZZIFY
 
 RULEBLOCK first

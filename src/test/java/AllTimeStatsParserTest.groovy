@@ -1,3 +1,4 @@
+import allstats.AllTimeStatsParser
 import spock.lang.Specification
 
 class AllTimeStatsParserTest extends Specification {

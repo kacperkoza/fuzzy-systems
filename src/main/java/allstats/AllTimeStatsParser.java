@@ -1,3 +1,5 @@
+package allstats;
+
 import domain.Goals;
 import domain.Matches;
 import domain.Team;

@@ -1,6 +1,8 @@
+import allstats.AllStatsTeamProvider;
 import domain.Team;
 import domain.TeamStats;
 import net.sourceforge.jFuzzyLogic.FIS;
+import net.sourceforge.jFuzzyLogic.plot.JFuzzyChart;
 import net.sourceforge.jFuzzyLogic.rule.Variable;
 
 public class Main {
@@ -13,10 +15,12 @@ public class Main {
         System.out.println(fis);
 
 
-        TeamStats lech = statsTeamProvider.getStats(Team.LECH_POZNAN);
-        TeamStats legia = statsTeamProvider.getStats(Team.LEGIA_WARSZAWA);
+        TeamStats lech = statsTeamProvider.getStats(Team.PIAST_GLIWICE);
         fis.setVariable("games_played", lech.getMatches().getPlayed());
+
+        TeamStats legia = statsTeamProvider.getStats(Team.LEGIA_WARSZAWA);
         fis.setVariable("enemy_games_played", legia.getMatches().getPlayed());
+
         fis.evaluate();
 
         Variable games_played = fis.getVariable("games_played");
@@ -24,8 +28,10 @@ public class Main {
         Variable enemy_games_played = fis.getVariable("enemy_games_played");
         System.out.println(enemy_games_played);
 
-        double chance_to_win = fis.getVariable("chance_to_win").getLatestDefuzzifiedValue();
+        Variable chance_to_win = fis.getVariable("chance_to_win");
         System.out.println(chance_to_win);
+
+        JFuzzyChart.get().chart(fis);
     }
 
 }

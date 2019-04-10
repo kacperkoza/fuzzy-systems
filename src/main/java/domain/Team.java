@@ -14,7 +14,7 @@ public enum Team {
     KORONA_KIELCE("Korona Kielce"),
     SLASK_WROCLAW("Śląsk Wrocław"),
     MIEDZ_LEGNICA("Miedź Legnica"),
-    GORNIK_ZABRZE("Gornik Zabrze"),
+    GORNIK_ZABRZE("Górnik Zabrze"),
     ARKA_GDYNIA("Arka Gdynia"),
     WISLA_PLOCK("Wisła Płock"),
     ZAGLEBIE_SOSNOWIEC("Zagłębie Sosnowiec");
