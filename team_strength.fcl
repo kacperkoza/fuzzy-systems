@@ -21,9 +21,9 @@ FUNCTION_BLOCK teamStrength
     END_FUZZIFY
 
     FUZZIFY strength
-        TERM weak := () () ( );
+        TERM weak := () () ();
         TERM average := () () ();
-        TERM strong := () ( ) ();
+        TERM strong := () () ();
     END_FUZZIFY
 
     DEFUZZIFY chance_to_win
@@ -33,7 +33,7 @@ FUNCTION_BLOCK teamStrength
     RULEBLOCK
         AND:MIN;
         ACCU:MAX;
-        RULE 0: IF games_played IS few AND won_to_all_ratio IS bad THEN strength IS weak;
+        RULE 0: IF games_played IS few AND won_to_all_ratio IS bad THEN strength is weak;
         RULE 1: IF games_played IS few AND won_to_all_ratio IS good THEN strength IS average;
         RULE 2: IF games_played IS many AND won_to_all_ratio IS bad THEN strength IS weak;
         RULE 3: IF games_played IS many AND won_to_all_ratio IS good THEN strength IS strong;
