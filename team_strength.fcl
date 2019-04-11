@@ -1,0 +1,42 @@
+FUNCTION_BLOCK teamStrength
+
+    VAR_INPUT
+        games_played: REAL; (* RANGE(0 .. 2500) *)
+        won_to_all_ratio: REAL; (* RANGE(-1 .. 1) *)
+    END_VAR
+
+    VAR_OUTPUT
+        strength: REAL (* RANGE(-1 .. 1) *)
+    END_VAR
+
+    FUZZIFY games_played
+       TERM few := (0,0) (0,1) (500,1) (1000,0);
+       TERM many := (1500,0) (2000,1) (2500,1) (2500,0);
+    END_FUZZIFY
+
+    FUZZIFY won_to_all_ratio
+        TERM bad := () () ();
+        TERM average := () () ();
+        TERM good := () () ();
+    END_FUZZIFY
+
+    FUZZIFY strength
+        TERM weak := () () ( );
+        TERM average := () () ();
+        TERM strong := () ( ) ();
+    END_FUZZIFY
+
+    DEFUZZIFY chance_to_win
+        METHOD: COGS;
+    END_DEFUZZIFY
+
+    RULEBLOCK
+        AND:MIN;
+        ACCU:MAX;
+        RULE 0: IF games_played IS few AND won_to_all_ratio IS bad THEN strength IS weak;
+        RULE 1: IF games_played IS few AND won_to_all_ratio IS good THEN strength IS average;
+        RULE 2: IF games_played IS many AND won_to_all_ratio IS bad THEN strength IS weak;
+        RULE 3: IF games_played IS many AND won_to_all_ratio IS good THEN strength IS strong;
+    END_RULEBLOCK
+
+END_FUNCTION_BLOCK

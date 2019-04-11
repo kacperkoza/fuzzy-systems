@@ -40,9 +40,6 @@ public class Main {
 
         List<Match> matches= singleMatchProvider.getMatches(Team.LECH_POZNAN);
         System.out.println(matches.toString());
-//        JFuzzyChart.get().chart(fis);
+        JFuzzyChart.get().chart(fis);
     }
-
-
-
 }
